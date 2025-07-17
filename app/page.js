@@ -22,7 +22,7 @@ export default function Home() {
           <div className="mb-12">
             <a
               href="https://github.com/jattu8602/gogreen/releases/download/gogreen/app-release.apk"
-              download="GoGreen.apk"
+              download="gogreen.apk"
               className="inline-flex items-center px-8 py-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
             >
               <svg
@@ -217,7 +217,7 @@ export default function Home() {
 
           <a
             href="https://github.com/jattu8602/gogreen/releases/download/gogreen/app-release.apk"
-            download="GoGreen.apk"
+            download="gogreen.apk"
             className="inline-flex items-center px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg transition-colors"
           >
             <svg
