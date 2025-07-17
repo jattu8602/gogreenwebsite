@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gogreenwebsite.vercel.app/sitemap.xml
+
+# Additional sitemap locations (if needed)
+Sitemap: https://gogreenwebsite.vercel.app/app/sitemap.xml
